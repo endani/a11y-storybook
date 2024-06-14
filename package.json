@@ -42,7 +42,7 @@
     "@storybook/test": "^8.1.5",
     "eslint-plugin-storybook": "^0.8.0",
     "prop-types": "^15.8.1",
-    "semantic-release": "^19.0.3",
+    "semantic-release": "^24.0.0",
     "storybook": "^8.1.5",
     "webpack": "^5.91.0"
   },
