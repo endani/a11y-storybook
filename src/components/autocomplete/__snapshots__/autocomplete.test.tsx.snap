@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Autocomplete should render a Autocomplete correctly 1`] = `
+<div>
+  <div
+    data-qa="autocomplete"
+  >
+    <form
+      class="sc-gsFSjX dIyWkF"
+    >
+      <input
+        aria-autocomplete="list"
+        aria-controls="autocomplete-list"
+        aria-expanded="false"
+        autocomplete="off"
+        class="sc-eqUzNf kvHAoH"
+        data-qa="input"
+        placeholder="Awesome Autocomplete"
+        role="combobox"
+        tabindex="0"
+        type="search"
+      />
+    </form>
+  </div>
+</div>
+`;

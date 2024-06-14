@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input should render a Input correctly 1`] = `
+<div>
+  <input
+    class="sc-aYaIB iXnLvK"
+    data-qa="input"
+    placeholder="Awesome Input"
+    type="text"
+  />
+</div>
+`;

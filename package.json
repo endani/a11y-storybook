@@ -5,15 +5,15 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "jest",
     "eject": "react-scripts eject",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "semantic-release": "semantic-release"
   },
   "dependencies": {
-    "@testing-library/jest-dom": "^6.4.5",
-    "@testing-library/react": "^15.0.7",
+    "@testing-library/jest-dom": "^6.4.6",
+    "@testing-library/react": "^16.0.0",
     "@testing-library/user-event": "^14.5.2",
     "@types/jest": "^29.5.12",
     "@types/node": "^20.12.12",
@@ -27,6 +27,8 @@
     "web-vitals": "^4.0.1"
   },
   "devDependencies": {
+    "@swc/core": "^1.5.29",
+    "@swc/jest": "^0.2.36",
     "@chromatic-com/storybook": "^1.4.0",
     "@storybook/addon-a11y": "^8.1.5",
     "@storybook/addon-essentials": "^8.1.5",

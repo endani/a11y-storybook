@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List should render a List correctly 1`] = `
+<div>
+  <ul
+    aria-label="Desert list"
+    class="sc-aYaIB bDsthc"
+    data-qa="list"
+    role="listbox"
+  >
+    <li
+      aria-posinset="1"
+      aria-setsize="3"
+      class="sc-gEvDqW hHYJEe"
+      role="option"
+      tabindex="0"
+      value="Option 1"
+    >
+      <mark />
+      O
+      <mark />
+      p
+      <mark />
+      t
+      <mark />
+      i
+      <mark />
+      o
+      <mark />
+      n
+      <mark />
+       
+      <mark />
+      1
+      <mark />
+    </li>
+    <li
+      aria-posinset="2"
+      aria-setsize="3"
+      class="sc-gEvDqW hHYJEe"
+      role="option"
+      tabindex="0"
+      value="Option 2"
+    >
+      <mark />
+      O
+      <mark />
+      p
+      <mark />
+      t
+      <mark />
+      i
+      <mark />
+      o
+      <mark />
+      n
+      <mark />
+       
+      <mark />
+      2
+      <mark />
+    </li>
+    <li
+      aria-posinset="3"
+      aria-setsize="3"
+      class="sc-gEvDqW hHYJEe"
+      role="option"
+      tabindex="0"
+      value="Option 3"
+    >
+      <mark />
+      O
+      <mark />
+      p
+      <mark />
+      t
+      <mark />
+      i
+      <mark />
+      o
+      <mark />
+      n
+      <mark />
+       
+      <mark />
+      3
+      <mark />
+    </li>
+  </ul>
+</div>
+`;

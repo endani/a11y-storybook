@@ -1,0 +1,15 @@
+{
+  "testEnvironment": "jsdom",
+  "setupFilesAfterEnv": ["<rootDir>/__tests__/setupTests.js"],
+  "roots": ["src"],
+  "transform": {
+    "^.+\\.(t|j)sx?$": ["@swc/jest", { "sourceMaps": true }]
+  },
+  "moduleNameMapper": {
+    "\\.(css|scss)$": "<rootDir>/__tests__/assetsTransformer.js"
+  },
+  "testMatch": [
+    "**/__tests__/**/*.[jt]s?(x)",
+    "**/?(*.)+(spec|specs|test|tests).[jt]s?(x)"
+  ]
+}

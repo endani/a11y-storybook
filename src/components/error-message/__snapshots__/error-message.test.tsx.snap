@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorMessage should render a ErrorMessage correctly 1`] = `
+<div>
+  <p
+    class="sc-aYaIB hymwfN"
+    data-qa="error-message"
+  >
+    Awesome ErrorMessage
+  </p>
+</div>
+`;
